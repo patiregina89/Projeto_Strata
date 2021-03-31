@@ -1,0 +1,80 @@
+
+
+.main-header{
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 35%;
+    padding: 124px 54px 72px 54px;
+    box-sizing: border-box;
+    background-image: url(../images/overlay.png), url(../images/bg.jpg);
+    background-position: left top;
+    background-size: auto, cover;
+    text-align: right;
+}
+
+.main-header-title{
+    font-size: 22px;
+    line-height: 2;
+    color: rgba(255, 255, 255, .5);
+    margin-bottom: 0;
+}
+
+.main-header-title strong{
+    color: white;
+}
+
+.main-header-title-link{
+    font-size: 22px;
+    line-height: 2;
+    color: rgba(255, 255, 255, .5);
+}
+
+.main-header-link{
+    color: inherit /*a cor do link vai herdar (inherit) a cor do title*/
+}
+
+.main-header-link:hover{
+    color: #49BF9D;
+}
+
+.main-header-link img{
+    border-radius: 50%;
+    overflow: hidden;
+}
+
+body{
+    font-family: 'Noto Sans JP', Arial, Helvetica, sans-serif;
+    color: #928f8f;
+    line-height: 2;
+}
+
+.content {
+    margin-left: 38%;
+    box-sizing: content-box;
+    line-height: 1.7;
+    margin-top: 4%;
+            }
+
+    #text {
+        width: 65%;
+        height: 35%;
+                
+        }
+   
+    #imagem {
+     display: flex;
+     width: 35%;
+     height: 70%;
+     margin-top: 4%;
+     border-radius: 40%;
+     justify-content: end;
+     border: 3px solid red;
+     background-image: url(../images/sidebar.jpg);
+     
+     
+
+     
+}    
+
