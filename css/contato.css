@@ -55,26 +55,22 @@ body{
     box-sizing: content-box;
     line-height: 1.7;
     margin-top: 4%;
-            }
+    }
 
-    #text {
-        width: 65%;
-        height: 35%;
-                
-        }
+#text {
+    width: 65%;
+    height: 35%;
+    }
    
-    #imagem {
-     display: flex;
-     width: 35%;
-     height: 70%;
-     margin-top: 4%;
-     border-radius: 40%;
-     justify-content: end;
-     border: 3px solid red;
-     background-image: url(../images/sidebar.jpg);
-     
-     
-
-     
-}    
+#imagem {
+    display: flex;
+    width: 35%;
+    height: 70%;
+    margin-top: 4%;
+    border-radius: 40%;
+    justify-content: end;
+    border: 3px solid red;
+    background-image: url(../images/sidebar.jpg);
+            
+    }    
 

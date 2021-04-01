@@ -24,7 +24,7 @@ img{
 }
 
 h1, h2, h3, h4, h5, h6{
-    color: black;
+    color:#888484;
     margin: 1em 0; /*a margem varia conforme a importancia do titulo. O em é relativo a font-size*/
 }
 
@@ -60,11 +60,6 @@ blockquote{
     border-left: 5px solid #efefef;
     margin: 2em 0;
     padding: .5em 0 .5em 1.5em;
-}
-
-.content {
-margin-left: 38%;
-
 }
 
 blockquote p{
