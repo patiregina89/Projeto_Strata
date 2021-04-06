@@ -1,4 +1,4 @@
-.button-default {
+/*.button-default-azul {
     background-color: #4963bf;
     color: white;
     padding: 1% 19.7%;
@@ -9,7 +9,7 @@
     text-align: center;
 }
 
-.button-default:hover {
+.button-default-azul:hover {
     background-color: #4963bfce;
     color: white;
     transition: 0.1s;
@@ -19,7 +19,7 @@
     padding: 19px 80px;
     margin-top: 19px;
     display: flex;
-}
+}*/
 
 .imagem-link {
     width: 100%;

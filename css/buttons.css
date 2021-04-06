@@ -1,0 +1,113 @@
+.button-default{
+    background-color: #49BF9D;
+    border: 3px solid #49BF9D;
+    color: white;
+    padding: .75em 1.5em;
+    border-radius: 5px;
+    font-size: .8em;
+    display: inline-block;
+    width: auto;
+    transition: all .5s;
+    cursor: pointer;
+}
+
+.button-default:hover{
+    background-color: #59caaa;
+    border-color: transparent;
+}
+
+.button-default-stroke{
+    background-color: white;
+    border-color: #efefef;
+    color: inherit;
+}
+
+.button-default-stroke:hover{
+    color: #49BF9D;
+    border-color: #49BF9D;
+    background-color: white;
+}
+
+.button-default-small{
+    font-size: .6em;
+}
+
+.button-default-big{
+    font-size: 1em;
+}
+
+.button-default-full{
+    display: block;
+    text-align: center;
+    margin-bottom: .5em;
+}
+.button-orange{
+	background-color: #EB8622;
+	border: 3px solid white;
+    color: white;
+    padding: .75em 1.5em;
+    border-radius: 5px;
+    font-size: .8em;
+    display: inline-block;
+    width: auto;
+    transition: all .5s;
+    cursor: pointer;
+
+}
+.button-default-azul {
+    background-color: #4963bf;
+    color: white;
+    padding: 1% 19.7%;
+    border-radius: 5px;
+    font-size: 10px;
+    text-decoration: none;
+    border: 1px solid #4963bf;
+    text-align: center;
+}
+
+.button-default-azul:hover {
+    background-color: #4963bfce;
+    color: white;
+    transition: 0.1s;
+}
+
+.button-send {
+    padding: 19px 80px;
+    margin-top: 19px;
+    display: flex;
+}
+.button-default-rosa{
+    background-color: var(--SeaPink);
+    border: 3px solid var(--TurkishRose);
+    color: white;
+    padding: .75em 9em;
+    border-radius: 5px;
+    font-size: .8em;
+    display: inline-block;
+    width: auto;
+    transition: all .5s;
+    cursor: pointer;
+    margin-left: 8px;
+
+}
+
+.button-default-stroke-rosa{
+    background-color: white;
+    border-color: #efefef;
+    color: inherit;
+}
+
+.button-default-rosa:hover{
+    background-color: rgb(238, 162, 172, 0.6 );
+    border-color: transparent;
+}
+
+.button-default-stroke-rosa:hover{
+    color: var(--TurkishRose);
+    border-color: var(--TurkishRose);
+    background-color: white;
+}
+.footer-buttons {
+    margin-top: 6%;
+    margin-left: 13%;
+}

@@ -159,7 +159,7 @@ body{
 
 }
 
-.button-default1{
+/*.button-default1{
     background-color: var(--SeaPink);
     border: 3px solid var(--TurkishRose);
     color: white;
@@ -189,7 +189,7 @@ body{
     color: var(--TurkishRose);
     border-color: var(--TurkishRose);
     background-color: white;
-}
+}*/
 
 .circle {
     background-color: var(--TurkishRose);
@@ -201,7 +201,7 @@ body{
     border-radius: 50%;
 }
 
-.footer-buttons {
+/*.footer-buttons {
     margin-top: 6%;
     margin-left: 13%;
-}
+}*/
