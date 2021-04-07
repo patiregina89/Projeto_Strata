@@ -109,7 +109,7 @@ body{
     margin-left: 2%;
 }
 
-.tabela {
+/*.tabela {
     width: 65%;
     margin-top: -29%;
    
@@ -143,14 +143,14 @@ body{
     border-bottom: 2px solid #ccc;
 }
 
-.table2 tbody tr:nth-child(even) td{  /*odd= impar     even=par*/
+.table2 tbody tr:nth-child(even) td{  /*odd= impar     even=par
     background-color: rgb(238, 162, 172, 0.4 );
     
 }
 
-.tabl2e-alternate tbody td, .table2-alternate thead, .table2-alternate tbody tr:first-child td, .table2-alternate tbody tr:last-child td{
+.table2-alternate tbody td, .table2-alternate thead, .table2-alternate tbody tr:first-child td, .table2-alternate tbody tr:last-child td{
     border: 1px solid rgb(224, 221, 221);
-}
+}*/
 
 .sidebar-text { 
     padding: 18px;
