@@ -17,3 +17,4 @@ Sobre o CSS cada equipe deverá criar um novo arquivo .css e importá-lo no seu 
 
 
 Após a finalização do layout o novo branch criado deve ser enviado ao github (git push) e um pull request deve ser criado, colocando os outros colegas como revisores do código. Somente após a aprovação deles o branch poderá ser mergeado para a main.
+ 
